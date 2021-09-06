@@ -2,4 +2,4 @@
 
 ## **Estudiante de informatica de la UNaHur**
 
-![foto](ubicacion)
+![foto](descarga.jpg)
